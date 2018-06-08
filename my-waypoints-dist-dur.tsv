@@ -1,0 +1,944 @@
+waypoint1	waypoint2	distance_m	duration_s
+Mt.Massive, Colorado	Mt.Elbert, Colorado	5741	1289
+LaPlata Peak, Colorado	Mt.Elbert, Colorado	62590	4833
+Uncompahgre Peak, Colorado	Mt.Elbert, Colorado	303370	16453
+Crestone Peak, Colorado	Mt.Elbert, Colorado	211731	12580
+Mt.Lincoln, Colorado	Mt.Elbert, Colorado	120682	8553
+Castle Peak, Colorado	Mt.Elbert, Colorado	136509	9844
+Grays Peak, Colorado	Mt.Elbert, Colorado	110201	10664
+Mt.Antero, Colorado	Mt.Elbert, Colorado	103319	7510
+Torreys Peak, Colorado	Mt.Elbert, Colorado	111058	7594
+Quandary Peak, Colorado	Mt.Elbert, Colorado	107132	7436
+Mt.Evans, Colorado	Mt.Elbert, Colorado	179144	10736
+Mt.Wilson, Colorado	Mt.Elbert, Colorado	406638	19610
+Mt.Cameron, Colorado	Mt.Elbert, Colorado	119395	8421
+Mt.Elbert, Colorado	Mt.Shavano, Colorado	125340	7592
+Mt.Elbert, Colorado	Mt.Princeton, Colorado	89554	7235
+Mt.Belford, Colorado	Mt.Elbert, Colorado	55592	4686
+Mt.Yale, Colorado	Mt.Elbert, Colorado	85976	5540
+Crestone, Colorado	Mt.Elbert, Colorado	190879	9322
+Mt.Bross, Colorado	Mt.Elbert, Colorado	119136	8395
+KitCarson, Colorado	Mt.Elbert, Colorado	428810	17267
+Tabeguache Peak, Colorado	Mt.Elbert, Colorado	126868	7971
+Mt.Elbert, Colorado	Mt.Oxford, Colorado	53315	4449
+ElDiente Peak, Colorado	Mt.Elbert, Colorado	406646	19611
+Mt.Democrat, Colorado	Mt.Elbert, Colorado	146788	8113
+Mt.Sneffels, Colorado	Mt.Elbert, Colorado	378755	19208
+Pikes Peak, Colorado	Mt.Elbert, Colorado	233014	12727
+Mt.Elbert, Colorado	SnowmassMtn., Colorado	211021	13765
+Challenger Point, Colorado	Mt.Elbert, Colorado	194505	9950
+Mt.Columbia, Colorado	Mt.Elbert, Colorado	76068	5667
+Humboldt Peak, Colorado	Mt.Elbert, Colorado	210199	12442
+Mt.Bierstadt, Colorado	Mt.Elbert, Colorado	134660	8455
+Conundrum Peak, Colorado	Mt.Elbert, Colorado	131286	9420
+Mt.Elbert, Colorado	Handies Peak, Colorado	331142	22858
+Culebra Peak, Colorado	Mt.Elbert, Colorado	324020	15538
+Mt.Elbert, Colorado	Mt.Lindsey, Colorado	288089	13461
+LittleBear Peak, Colorado	Mt.Elbert, Colorado	258031	13416
+Mt.Sherman, Colorado	Mt.Elbert, Colorado	37682	4426
+Redcloud Peak, Colorado	Mt.Elbert, Colorado	318953	17365
+Pyramid Peak, Colorado	Mt.Elbert, Colorado	124138	9605
+NorthMaroon Peak, Colorado	Mt.Elbert, Colorado	124171	9598
+LaPlata Peak, Colorado	Uncompahgre Peak, Colorado	291429	14724
+Crestone Peak, Colorado	LaPlata Peak, Colorado	199791	10850
+Mt.Lincoln, Colorado	LaPlata Peak, Colorado	140819	6853
+Castle Peak, Colorado	LaPlata Peak, Colorado	160020	9326
+Grays Peak, Colorado	LaPlata Peak, Colorado	133817	10213
+Mt.Antero, Colorado	LaPlata Peak, Colorado	91378	5780
+LaPlata Peak, Colorado	Torreys Peak, Colorado	134674	7143
+Quandary Peak, Colorado	LaPlata Peak, Colorado	142172	6741
+Mt.Evans, Colorado	LaPlata Peak, Colorado	202760	10284
+Mt.Wilson, Colorado	LaPlata Peak, Colorado	394698	17880
+LaPlata Peak, Colorado	Mt.Cameron, Colorado	139532	6721
+LaPlata Peak, Colorado	Mt.Shavano, Colorado	113400	5862
+LaPlata Peak, Colorado	Mt.Princeton, Colorado	77613	5505
+LaPlata Peak, Colorado	Mt.Belford, Colorado	43651	2957
+Mt.Yale, Colorado	LaPlata Peak, Colorado	74035	3811
+LaPlata Peak, Colorado	Crestone, Colorado	178938	7593
+LaPlata Peak, Colorado	Mt.Bross, Colorado	139273	6695
+KitCarson, Colorado	LaPlata Peak, Colorado	392379	15787
+Tabeguache Peak, Colorado	LaPlata Peak, Colorado	114928	6242
+LaPlata Peak, Colorado	Mt.Oxford, Colorado	41374	2719
+LaPlata Peak, Colorado	ElDiente Peak, Colorado	394705	17881
+LaPlata Peak, Colorado	Mt.Democrat, Colorado	134847	6383
+LaPlata Peak, Colorado	Mt.Sneffels, Colorado	366814	17478
+Pikes Peak, Colorado	LaPlata Peak, Colorado	221073	10998
+LaPlata Peak, Colorado	SnowmassMtn., Colorado	152404	9585
+Challenger Point, Colorado	LaPlata Peak, Colorado	182564	8221
+Mt.Columbia, Colorado	LaPlata Peak, Colorado	64127	3938
+Humboldt Peak, Colorado	LaPlata Peak, Colorado	198259	10712
+Mt.Bierstadt, Colorado	LaPlata Peak, Colorado	158276	8004
+Conundrum Peak, Colorado	LaPlata Peak, Colorado	72669	5241
+LaPlata Peak, Colorado	Handies Peak, Colorado	319201	21128
+Culebra Peak, Colorado	LaPlata Peak, Colorado	312080	13809
+LaPlata Peak, Colorado	Mt.Lindsey, Colorado	276149	11731
+LittleBear Peak, Colorado	LaPlata Peak, Colorado	246090	11687
+Mt.Sherman, Colorado	LaPlata Peak, Colorado	61299	3975
+Redcloud Peak, Colorado	LaPlata Peak, Colorado	307012	15636
+LaPlata Peak, Colorado	Pyramid Peak, Colorado	65520	5426
+NorthMaroon Peak, Colorado	LaPlata Peak, Colorado	65553	5419
+Wilson Peak, Colorado	LaPlata Peak, Colorado	394688	17879
+Wetterhorn Peak, Colorado	LaPlata Peak, Colorado	296530	16026
+Huron Peak, Colorado	LaPlata Peak, Colorado	52214	4263
+Sunshine Peak, Colorado	LaPlata Peak, Colorado	304063	14976
+Crestone Peak, Colorado	Uncompahgre Peak, Colorado	308858	17302
+Mt.Lincoln, Colorado	Uncompahgre Peak, Colorado	312038	15689
+Castle Peak, Colorado	Uncompahgre Peak, Colorado	400785	21024
+Grays Peak, Colorado	Uncompahgre Peak, Colorado	363424	21968
+Mt.Antero, Colorado	Uncompahgre Peak, Colorado	250603	14106
+Torreys Peak, Colorado	Uncompahgre Peak, Colorado	375439	18842
+Quandary Peak, Colorado	Uncompahgre Peak, Colorado	313391	15577
+Mt.Evans, Colorado	Uncompahgre Peak, Colorado	443525	21983
+Mt.Wilson, Colorado	Uncompahgre Peak, Colorado	277057	15089
+Mt.Cameron, Colorado	Uncompahgre Peak, Colorado	310751	15557
+Uncompahgre Peak, Colorado	Mt.Shavano, Colorado	196824	11436
+Uncompahgre Peak, Colorado	Mt.Princeton, Colorado	254139	14590
+Mt.Belford, Colorado	Uncompahgre Peak, Colorado	270645	14127
+Mt.Yale, Colorado	Uncompahgre Peak, Colorado	253069	13104
+Crestone, Colorado	Uncompahgre Peak, Colorado	243434	12558
+Mt.Bross, Colorado	Uncompahgre Peak, Colorado	310492	15531
+KitCarson, Colorado	Uncompahgre Peak, Colorado	550447	24553
+Tabeguache Peak, Colorado	Uncompahgre Peak, Colorado	198352	11816
+Uncompahgre Peak, Colorado	Mt.Oxford, Colorado	268368	13889
+ElDiente Peak, Colorado	Uncompahgre Peak, Colorado	277064	15090
+Mt.Democrat, Colorado	Uncompahgre Peak, Colorado	306066	15219
+Mt.Sneffels, Colorado	Uncompahgre Peak, Colorado	249173	14687
+Pikes Peak, Colorado	Uncompahgre Peak, Colorado	392292	19834
+Uncompahgre Peak, Colorado	SnowmassMtn., Colorado	286457	16855
+Challenger Point, Colorado	Uncompahgre Peak, Colorado	247060	13186
+Mt.Columbia, Colorado	Uncompahgre Peak, Colorado	248992	13616
+Humboldt Peak, Colorado	Uncompahgre Peak, Colorado	307326	17164
+Mt.Bierstadt, Colorado	Uncompahgre Peak, Colorado	353475	17210
+Conundrum Peak, Colorado	Uncompahgre Peak, Colorado	360183	19399
+Uncompahgre Peak, Colorado	Handies Peak, Colorado	38306	8454
+Culebra Peak, Colorado	Uncompahgre Peak, Colorado	298083	16443
+Uncompahgre Peak, Colorado	Mt.Lindsey, Colorado	262152	14365
+LittleBear Peak, Colorado	Uncompahgre Peak, Colorado	238555	14538
+Mt.Sherman, Colorado	Uncompahgre Peak, Colorado	302063	15674
+Redcloud Peak, Colorado	Uncompahgre Peak, Colorado	42810	5838
+Pyramid Peak, Colorado	Uncompahgre Peak, Colorado	353034	19584
+NorthMaroon Peak, Colorado	Uncompahgre Peak, Colorado	353067	19577
+Wilson Peak, Colorado	Uncompahgre Peak, Colorado	277047	15087
+Wetterhorn Peak, Colorado	Uncompahgre Peak, Colorado	15635	3351
+Huron Peak, Colorado	Uncompahgre Peak, Colorado	279208	15433
+Sunshine Peak, Colorado	Uncompahgre Peak, Colorado	39861	5178
+Crestone Peak, Colorado	Mt.Lincoln, Colorado	221046	11614
+Crestone Peak, Colorado	Castle Peak, Colorado	307498	17097
+Crestone Peak, Colorado	Grays Peak, Colorado	272432	17893
+Crestone Peak, Colorado	Mt.Antero, Colorado	157316	10179
+Crestone Peak, Colorado	Torreys Peak, Colorado	282152	14915
+Crestone Peak, Colorado	Quandary Peak, Colorado	222399	11502
+Crestone Peak, Colorado	Mt.Evans, Colorado	352747	17164
+Crestone Peak, Colorado	Mt.Wilson, Colorado	410600	20439
+Crestone Peak, Colorado	Mt.Cameron, Colorado	219760	11482
+Crestone Peak, Colorado	Mt.Shavano, Colorado	129302	8421
+Crestone Peak, Colorado	Mt.Princeton, Colorado	160852	10663
+Crestone Peak, Colorado	Mt.Belford, Colorado	177358	10200
+Crestone Peak, Colorado	Mt.Yale, Colorado	159782	9177
+Crestone Peak, Colorado	Crestone, Colorado	193274	10035
+Crestone Peak, Colorado	Mt.Bross, Colorado	219501	11456
+Crestone Peak, Colorado	KitCarson, Colorado	325627	14679
+Crestone Peak, Colorado	Tabeguache Peak, Colorado	130830	8800
+Crestone Peak, Colorado	Mt.Oxford, Colorado	175081	9962
+Crestone Peak, Colorado	ElDiente Peak, Colorado	410607	20440
+Crestone Peak, Colorado	Mt.Democrat, Colorado	215075	11144
+Crestone Peak, Colorado	Mt.Sneffels, Colorado	382716	20037
+Crestone Peak, Colorado	Pikes Peak, Colorado	196452	12054
+Crestone Peak, Colorado	SnowmassMtn., Colorado	346630	19816
+Crestone Peak, Colorado	Challenger Point, Colorado	196901	10663
+Crestone Peak, Colorado	Mt.Columbia, Colorado	155705	9690
+Crestone Peak, Colorado	Humboldt Peak, Colorado	1532	138
+Crestone Peak, Colorado	Mt.Bierstadt, Colorado	262484	13134
+Crestone Peak, Colorado	Conundrum Peak, Colorado	266896	15472
+Crestone Peak, Colorado	Handies Peak, Colorado	335103	23687
+Crestone Peak, Colorado	Culebra Peak, Colorado	169003	11238
+Crestone Peak, Colorado	Mt.Lindsey, Colorado	115924	8488
+Crestone Peak, Colorado	LittleBear Peak, Colorado	142694	10636
+Crestone Peak, Colorado	Mt.Sherman, Colorado	208776	11747
+Crestone Peak, Colorado	Redcloud Peak, Colorado	322915	18194
+Crestone Peak, Colorado	Pyramid Peak, Colorado	259747	15657
+Crestone Peak, Colorado	NorthMaroon Peak, Colorado	259780	15650
+Crestone Peak, Colorado	Wilson Peak, Colorado	410590	20437
+Crestone Peak, Colorado	Wetterhorn Peak, Colorado	312433	18584
+Crestone Peak, Colorado	Huron Peak, Colorado	185921	11506
+Crestone Peak, Colorado	Sunshine Peak, Colorado	319965	17535
+Mt.Lincoln, Colorado	Castle Peak, Colorado	153911	9368
+Grays Peak, Colorado	Mt.Lincoln, Colorado	70012	8523
+Mt.Antero, Colorado	Mt.Lincoln, Colorado	117801	6890
+Mt.Lincoln, Colorado	Torreys Peak, Colorado	81144	5942
+Quandary Peak, Colorado	Mt.Lincoln, Colorado	19980	2132
+Mt.Evans, Colorado	Mt.Lincoln, Colorado	149231	9084
+Mt.Wilson, Colorado	Mt.Lincoln, Colorado	415337	18826
+Mt.Lincoln, Colorado	Mt.Cameron, Colorado	1287	132
+Mt.Lincoln, Colorado	Mt.Shavano, Colorado	134039	6808
+Mt.Lincoln, Colorado	Mt.Princeton, Colorado	103361	6659
+Mt.Lincoln, Colorado	Mt.Belford, Colorado	119867	6196
+Mt.Lincoln, Colorado	Mt.Yale, Colorado	102291	5173
+Mt.Lincoln, Colorado	Crestone, Colorado	199578	8538
+Mt.Lincoln, Colorado	Mt.Bross, Colorado	1546	158
+Mt.Lincoln, Colorado	KitCarson, Colorado	343755	14134
+Mt.Lincoln, Colorado	Tabeguache Peak, Colorado	135568	7187
+Mt.Lincoln, Colorado	Mt.Oxford, Colorado	117590	5959
+Mt.Lincoln, Colorado	ElDiente Peak, Colorado	415345	18827
+Mt.Lincoln, Colorado	Mt.Democrat, Colorado	23641	2191
+Mt.Lincoln, Colorado	Mt.Sneffels, Colorado	387454	18424
+Mt.Lincoln, Colorado	Pikes Peak, Colorado	172450	9345
+Mt.Lincoln, Colorado	SnowmassMtn., Colorado	260613	13525
+Mt.Lincoln, Colorado	Challenger Point, Colorado	203204	9166
+Mt.Lincoln, Colorado	Mt.Columbia, Colorado	98214	5686
+Humboldt Peak, Colorado	Mt.Lincoln, Colorado	221029	11413
+Mt.Bierstadt, Colorado	Mt.Lincoln, Colorado	90089	5172
+Mt.Lincoln, Colorado	Conundrum Peak, Colorado	209405	11468
+Mt.Lincoln, Colorado	Handies Peak, Colorado	339841	22074
+Culebra Peak, Colorado	Mt.Lincoln, Colorado	332719	14754
+Mt.Lincoln, Colorado	Mt.Lindsey, Colorado	296789	12677
+LittleBear Peak, Colorado	Mt.Lincoln, Colorado	266730	12632
+Mt.Sherman, Colorado	Mt.Lincoln, Colorado	105175	7124
+Redcloud Peak, Colorado	Mt.Lincoln, Colorado	327652	16582
+Mt.Lincoln, Colorado	Pyramid Peak, Colorado	202256	11653
+Mt.Lincoln, Colorado	NorthMaroon Peak, Colorado	202289	11646
+Wilson Peak, Colorado	Mt.Lincoln, Colorado	415327	18824
+Mt.Lincoln, Colorado	Wetterhorn Peak, Colorado	317170	16971
+Mt.Lincoln, Colorado	Huron Peak, Colorado	128429	7503
+Mt.Lincoln, Colorado	Sunshine Peak, Colorado	324703	15922
+Grays Peak, Colorado	Castle Peak, Colorado	146402	11496
+Mt.Antero, Colorado	Castle Peak, Colorado	200942	12042
+Castle Peak, Colorado	Torreys Peak, Colorado	147260	8426
+Quandary Peak, Colorado	Castle Peak, Colorado	143334	8268
+Mt.Evans, Colorado	Castle Peak, Colorado	215346	11567
+Mt.Wilson, Colorado	Castle Peak, Colorado	397651	18172
+Castle Peak, Colorado	Mt.Cameron, Colorado	155597	9252
+Castle Peak, Colorado	Mt.Shavano, Colorado	222964	12124
+Castle Peak, Colorado	Mt.Princeton, Colorado	187177	11767
+Castle Peak, Colorado	Mt.Belford, Colorado	153215	9219
+Mt.Yale, Colorado	Castle Peak, Colorado	183599	10073
+Castle Peak, Colorado	Crestone, Colorado	288502	13854
+Castle Peak, Colorado	Mt.Bross, Colorado	155338	9226
+KitCarson, Colorado	Castle Peak, Colorado	465011	18098
+Tabeguache Peak, Colorado	Castle Peak, Colorado	224492	12504
+Castle Peak, Colorado	Mt.Oxford, Colorado	150938	8981
+Castle Peak, Colorado	ElDiente Peak, Colorado	397658	18173
+Castle Peak, Colorado	Mt.Democrat, Colorado	161898	9338
+Castle Peak, Colorado	Mt.Sneffels, Colorado	369767	17770
+Castle Peak, Colorado	Pikes Peak, Colorado	310707	16492
+Castle Peak, Colorado	SnowmassMtn., Colorado	148975	9714
+Challenger Point, Colorado	Castle Peak, Colorado	292128	14482
+Castle Peak, Colorado	Mt.Columbia, Colorado	173691	10200
+Humboldt Peak, Colorado	Castle Peak, Colorado	307823	16974
+Mt.Bierstadt, Colorado	Castle Peak, Colorado	170862	9287
+Conundrum Peak, Colorado	Castle Peak, Colorado	157007	9413
+Castle Peak, Colorado	Handies Peak, Colorado	381975	20894
+Culebra Peak, Colorado	Castle Peak, Colorado	421644	20071
+Castle Peak, Colorado	Mt.Lindsey, Colorado	385713	17993
+LittleBear Peak, Colorado	Castle Peak, Colorado	355654	17949
+Mt.Sherman, Colorado	Castle Peak, Colorado	125827	8480
+Redcloud Peak, Colorado	Castle Peak, Colorado	416576	21898
+Castle Peak, Colorado	Pyramid Peak, Colorado	149859	9597
+Castle Peak, Colorado	NorthMaroon Peak, Colorado	149892	9590
+Wilson Peak, Colorado	Castle Peak, Colorado	397641	18170
+Wetterhorn Peak, Colorado	Castle Peak, Colorado	406094	22288
+Huron Peak, Colorado	Castle Peak, Colorado	161778	10525
+Sunshine Peak, Colorado	Castle Peak, Colorado	413627	21238
+Mt.Antero, Colorado	Grays Peak, Colorado	174683	12982
+Grays Peak, Colorado	Torreys Peak, Colorado	51902	7636
+Quandary Peak, Colorado	Grays Peak, Colorado	56888	7410
+Mt.Evans, Colorado	Grays Peak, Colorado	119989	10777
+Mt.Wilson, Colorado	Grays Peak, Colorado	501593	24111
+Grays Peak, Colorado	Mt.Cameron, Colorado	69150	8395
+Grays Peak, Colorado	Mt.Shavano, Colorado	185850	13097
+Grays Peak, Colorado	Mt.Princeton, Colorado	160918	12707
+Grays Peak, Colorado	Mt.Belford, Colorado	126956	10158
+Grays Peak, Colorado	Mt.Yale, Colorado	157340	11012
+Grays Peak, Colorado	Crestone, Colorado	251388	14828
+Grays Peak, Colorado	Mt.Bross, Colorado	68892	8368
+Grays Peak, Colorado	KitCarson, Colorado	369654	17308
+Grays Peak, Colorado	Tabeguache Peak, Colorado	187378	13477
+Grays Peak, Colorado	Mt.Oxford, Colorado	124679	9921
+Grays Peak, Colorado	ElDiente Peak, Colorado	501601	24112
+Grays Peak, Colorado	Mt.Democrat, Colorado	75452	8481
+Grays Peak, Colorado	Mt.Sneffels, Colorado	473709	23708
+Grays Peak, Colorado	Pikes Peak, Colorado	224260	15635
+Grays Peak, Colorado	SnowmassMtn., Colorado	252917	15653
+Grays Peak, Colorado	Challenger Point, Colorado	255014	15456
+Grays Peak, Colorado	Mt.Columbia, Colorado	147431	11140
+Humboldt Peak, Colorado	Grays Peak, Colorado	272840	17702
+Mt.Bierstadt, Colorado	Grays Peak, Colorado	75505	8497
+Grays Peak, Colorado	Conundrum Peak, Colorado	202650	14892
+Grays Peak, Colorado	Handies Peak, Colorado	485917	26832
+Culebra Peak, Colorado	Grays Peak, Colorado	384530	21044
+Grays Peak, Colorado	Mt.Lindsey, Colorado	348599	18966
+LittleBear Peak, Colorado	Grays Peak, Colorado	318541	18922
+Mt.Sherman, Colorado	Grays Peak, Colorado	97480	9251
+Redcloud Peak, Colorado	Grays Peak, Colorado	379463	22871
+Grays Peak, Colorado	Pyramid Peak, Colorado	195501	15077
+Grays Peak, Colorado	NorthMaroon Peak, Colorado	195534	15070
+Wilson Peak, Colorado	Grays Peak, Colorado	501583	24109
+Grays Peak, Colorado	Wetterhorn Peak, Colorado	368981	23261
+Grays Peak, Colorado	Huron Peak, Colorado	135518	11465
+Grays Peak, Colorado	Sunshine Peak, Colorado	376514	22211
+Mt.Antero, Colorado	Torreys Peak, Colorado	175353	9856
+Mt.Antero, Colorado	Quandary Peak, Colorado	119100	6740
+Mt.Antero, Colorado	Mt.Evans, Colorado	243440	12997
+Mt.Antero, Colorado	Mt.Wilson, Colorado	353833	17200
+Mt.Antero, Colorado	Mt.Cameron, Colorado	116460	6720
+Mt.Antero, Colorado	Mt.Shavano, Colorado	72535	5182
+Mt.Antero, Colorado	Mt.Princeton, Colorado	47238	5510
+Mt.Antero, Colorado	Mt.Belford, Colorado	70559	5141
+Mt.Antero, Colorado	Mt.Yale, Colorado	50544	3890
+Mt.Antero, Colorado	Crestone, Colorado	138073	6912
+Mt.Antero, Colorado	Mt.Bross, Colorado	116202	6694
+Mt.Antero, Colorado	KitCarson, Colorado	369307	15785
+Mt.Antero, Colorado	Tabeguache Peak, Colorado	74063	5562
+Mt.Antero, Colorado	Mt.Oxford, Colorado	68282	4903
+Mt.Antero, Colorado	ElDiente Peak, Colorado	353841	17201
+Mt.Antero, Colorado	Mt.Democrat, Colorado	111776	6382
+Mt.Antero, Colorado	Mt.Sneffels, Colorado	325949	16798
+Mt.Antero, Colorado	Pikes Peak, Colorado	198001	10996
+Mt.Antero, Colorado	SnowmassMtn., Colorado	239832	14757
+Mt.Antero, Colorado	Challenger Point, Colorado	141699	7540
+Mt.Antero, Colorado	Mt.Columbia, Colorado	48969	4552
+Mt.Antero, Colorado	Humboldt Peak, Colorado	157394	10032
+Mt.Antero, Colorado	Mt.Bierstadt, Colorado	159185	8372
+Mt.Antero, Colorado	Conundrum Peak, Colorado	160097	10413
+Mt.Antero, Colorado	Handies Peak, Colorado	278337	20448
+Mt.Antero, Colorado	Culebra Peak, Colorado	271215	13129
+Mt.Antero, Colorado	Mt.Lindsey, Colorado	235284	11051
+Mt.Antero, Colorado	LittleBear Peak, Colorado	205226	11007
+Mt.Antero, Colorado	Mt.Sherman, Colorado	101978	6688
+Mt.Antero, Colorado	Redcloud Peak, Colorado	266148	14956
+Mt.Antero, Colorado	Pyramid Peak, Colorado	152949	10598
+Mt.Antero, Colorado	NorthMaroon Peak, Colorado	152982	10591
+Mt.Antero, Colorado	Wilson Peak, Colorado	353823	17199
+Mt.Antero, Colorado	Wetterhorn Peak, Colorado	255666	15345
+Mt.Antero, Colorado	Huron Peak, Colorado	79122	6447
+Mt.Antero, Colorado	Sunshine Peak, Colorado	263199	14296
+Quandary Peak, Colorado	Torreys Peak, Colorado	68198	4871
+Mt.Evans, Colorado	Torreys Peak, Colorado	79039	5840
+Mt.Wilson, Colorado	Torreys Peak, Colorado	502455	21045
+Mt.Cameron, Colorado	Torreys Peak, Colorado	80460	5856
+Torreys Peak, Colorado	Mt.Shavano, Colorado	197566	9998
+Torreys Peak, Colorado	Mt.Princeton, Colorado	161779	9641
+Mt.Belford, Colorado	Torreys Peak, Colorado	127817	7093
+Mt.Yale, Colorado	Torreys Peak, Colorado	158201	7947
+Crestone, Colorado	Torreys Peak, Colorado	263104	11729
+Mt.Bross, Colorado	Torreys Peak, Colorado	80202	5829
+KitCarson, Colorado	Torreys Peak, Colorado	328705	12371
+Tabeguache Peak, Colorado	Torreys Peak, Colorado	199094	10378
+Torreys Peak, Colorado	Mt.Oxford, Colorado	125540	6855
+ElDiente Peak, Colorado	Torreys Peak, Colorado	502462	21046
+Mt.Democrat, Colorado	Torreys Peak, Colorado	86762	5941
+Mt.Sneffels, Colorado	Torreys Peak, Colorado	474571	20643
+Pikes Peak, Colorado	Torreys Peak, Colorado	239201	11307
+Torreys Peak, Colorado	SnowmassMtn., Colorado	253779	12587
+Challenger Point, Colorado	Torreys Peak, Colorado	266730	12357
+Mt.Columbia, Colorado	Torreys Peak, Colorado	148293	8074
+Humboldt Peak, Colorado	Torreys Peak, Colorado	282425	14848
+Mt.Bierstadt, Colorado	Torreys Peak, Colorado	34555	3560
+Conundrum Peak, Colorado	Torreys Peak, Colorado	203512	11827
+Torreys Peak, Colorado	Handies Peak, Colorado	486779	23767
+Culebra Peak, Colorado	Torreys Peak, Colorado	396246	17945
+Torreys Peak, Colorado	Mt.Lindsey, Colorado	360315	15867
+LittleBear Peak, Colorado	Torreys Peak, Colorado	330256	15823
+Mt.Sherman, Colorado	Torreys Peak, Colorado	98342	6185
+Redcloud Peak, Colorado	Torreys Peak, Colorado	391178	19772
+Pyramid Peak, Colorado	Torreys Peak, Colorado	196363	12012
+NorthMaroon Peak, Colorado	Torreys Peak, Colorado	196396	12005
+Wilson Peak, Colorado	Torreys Peak, Colorado	502445	21043
+Wetterhorn Peak, Colorado	Torreys Peak, Colorado	380696	20162
+Huron Peak, Colorado	Torreys Peak, Colorado	136380	8399
+Sunshine Peak, Colorado	Torreys Peak, Colorado	388229	19112
+Quandary Peak, Colorado	Mt.Evans, Colorado	135681	8030
+Quandary Peak, Colorado	Mt.Wilson, Colorado	416690	18699
+Quandary Peak, Colorado	Mt.Cameron, Colorado	18693	1978
+Quandary Peak, Colorado	Mt.Shavano, Colorado	135392	6680
+Quandary Peak, Colorado	Mt.Princeton, Colorado	104714	6532
+Quandary Peak, Colorado	Mt.Belford, Colorado	121220	6069
+Quandary Peak, Colorado	Mt.Yale, Colorado	103644	5046
+Quandary Peak, Colorado	Crestone, Colorado	200931	8411
+Quandary Peak, Colorado	Mt.Bross, Colorado	18434	1952
+Quandary Peak, Colorado	KitCarson, Colorado	345108	14007
+Quandary Peak, Colorado	Tabeguache Peak, Colorado	136921	7060
+Quandary Peak, Colorado	Mt.Oxford, Colorado	118943	5831
+Quandary Peak, Colorado	ElDiente Peak, Colorado	416698	18700
+Quandary Peak, Colorado	Mt.Democrat, Colorado	24994	2064
+Quandary Peak, Colorado	Mt.Sneffels, Colorado	388807	18297
+Quandary Peak, Colorado	Pikes Peak, Colorado	173803	9218
+Quandary Peak, Colorado	SnowmassMtn., Colorado	247063	12471
+Quandary Peak, Colorado	Challenger Point, Colorado	204557	9039
+Quandary Peak, Colorado	Mt.Columbia, Colorado	99567	5558
+Quandary Peak, Colorado	Humboldt Peak, Colorado	222382	11285
+Quandary Peak, Colorado	Mt.Bierstadt, Colorado	91442	5045
+Quandary Peak, Colorado	Conundrum Peak, Colorado	210758	11341
+Quandary Peak, Colorado	Handies Peak, Colorado	341194	21947
+Quandary Peak, Colorado	Culebra Peak, Colorado	334073	14627
+Quandary Peak, Colorado	Mt.Lindsey, Colorado	298142	12550
+Quandary Peak, Colorado	LittleBear Peak, Colorado	268083	12505
+Quandary Peak, Colorado	Mt.Sherman, Colorado	91626	6069
+Quandary Peak, Colorado	Redcloud Peak, Colorado	329005	16454
+Quandary Peak, Colorado	Pyramid Peak, Colorado	203609	11526
+Quandary Peak, Colorado	NorthMaroon Peak, Colorado	203642	11519
+Quandary Peak, Colorado	Wilson Peak, Colorado	416680	18697
+Quandary Peak, Colorado	Wetterhorn Peak, Colorado	318523	16844
+Quandary Peak, Colorado	Huron Peak, Colorado	129783	7375
+Quandary Peak, Colorado	Sunshine Peak, Colorado	326056	15795
+Mt.Evans, Colorado	Mt.Wilson, Colorado	570656	24172
+Mt.Evans, Colorado	Mt.Cameron, Colorado	148661	8983
+Mt.Evans, Colorado	Mt.Shavano, Colorado	265767	13125
+Mt.Evans, Colorado	Mt.Princeton, Colorado	229980	12768
+Mt.Evans, Colorado	Mt.Belford, Colorado	196018	10220
+Mt.Evans, Colorado	Mt.Yale, Colorado	226402	11074
+Mt.Evans, Colorado	Crestone, Colorado	331305	14856
+Mt.Evans, Colorado	Mt.Bross, Colorado	148403	8956
+Mt.Evans, Colorado	KitCarson, Colorado	338032	13442
+Mt.Evans, Colorado	Tabeguache Peak, Colorado	267295	13505
+Mt.Evans, Colorado	Mt.Oxford, Colorado	193741	9982
+Mt.Evans, Colorado	ElDiente Peak, Colorado	570663	24173
+Mt.Evans, Colorado	Mt.Democrat, Colorado	154963	9068
+Mt.Evans, Colorado	Mt.Sneffels, Colorado	542772	23770
+Mt.Evans, Colorado	Pikes Peak, Colorado	248528	12378
+Mt.Evans, Colorado	SnowmassMtn., Colorado	321980	15714
+Mt.Evans, Colorado	Challenger Point, Colorado	334931	15484
+Mt.Evans, Colorado	Mt.Columbia, Colorado	216494	11201
+Mt.Evans, Colorado	Humboldt Peak, Colorado	352434	16943
+Mt.Evans, Colorado	Mt.Bierstadt, Colorado	81709	5955
+Mt.Evans, Colorado	Conundrum Peak, Colorado	271713	14954
+Mt.Evans, Colorado	Handies Peak, Colorado	554980	26894
+Mt.Evans, Colorado	Culebra Peak, Colorado	482932	19988
+Mt.Evans, Colorado	Mt.Lindsey, Colorado	429853	17237
+Mt.Evans, Colorado	LittleBear Peak, Colorado	398457	18950
+Mt.Evans, Colorado	Mt.Sherman, Colorado	166542	9312
+Mt.Evans, Colorado	Redcloud Peak, Colorado	459379	22899
+Mt.Evans, Colorado	Pyramid Peak, Colorado	264564	15139
+Mt.Evans, Colorado	NorthMaroon Peak, Colorado	264597	15132
+Mt.Evans, Colorado	Wilson Peak, Colorado	570646	24170
+Mt.Evans, Colorado	Wetterhorn Peak, Colorado	448897	23289
+Mt.Evans, Colorado	Huron Peak, Colorado	204581	11526
+Mt.Evans, Colorado	Sunshine Peak, Colorado	456430	22239
+Mt.Wilson, Colorado	Mt.Cameron, Colorado	414021	18657
+Mt.Wilson, Colorado	Mt.Shavano, Colorado	300094	14536
+Mt.Wilson, Colorado	Mt.Princeton, Colorado	357409	17690
+Mt.Wilson, Colorado	Mt.Belford, Colorado	373915	17226
+Mt.Wilson, Colorado	Mt.Yale, Colorado	356339	16204
+Mt.Wilson, Colorado	Crestone, Colorado	366323	16530
+Mt.Wilson, Colorado	Mt.Bross, Colorado	413762	18631
+Mt.Wilson, Colorado	KitCarson, Colorado	653717	27653
+Mt.Wilson, Colorado	Tabeguache Peak, Colorado	301622	14915
+Mt.Wilson, Colorado	Mt.Oxford, Colorado	371638	16989
+Mt.Wilson, Colorado	ElDiente Peak, Colorado	8	1
+Mt.Wilson, Colorado	Mt.Democrat, Colorado	409336	18319
+Mt.Wilson, Colorado	Mt.Sneffels, Colorado	92431	6996
+Mt.Wilson, Colorado	Pikes Peak, Colorado	495561	22933
+Mt.Wilson, Colorado	SnowmassMtn., Colorado	261141	13933
+Mt.Wilson, Colorado	Challenger Point, Colorado	369949	17158
+Mt.Wilson, Colorado	Mt.Columbia, Colorado	352262	16716
+Mt.Wilson, Colorado	Humboldt Peak, Colorado	410596	20263
+Mt.Wilson, Colorado	Mt.Bierstadt, Colorado	456745	20309
+Mt.Wilson, Colorado	Conundrum Peak, Colorado	339109	16957
+Mt.Wilson, Colorado	Handies Peak, Colorado	104639	10120
+Mt.Wilson, Colorado	Culebra Peak, Colorado	499465	22747
+Mt.Wilson, Colorado	Mt.Lindsey, Colorado	463534	20669
+Mt.Wilson, Colorado	LittleBear Peak, Colorado	433475	20625
+Mt.Wilson, Colorado	Mt.Sherman, Colorado	405333	18773
+Mt.Wilson, Colorado	Redcloud Peak, Colorado	292627	15884
+Mt.Wilson, Colorado	Pyramid Peak, Colorado	331960	17141
+Mt.Wilson, Colorado	NorthMaroon Peak, Colorado	331993	17134
+Mt.Wilson, Colorado	Wilson Peak, Colorado	10	1
+Mt.Wilson, Colorado	Wetterhorn Peak, Colorado	282145	16273
+Mt.Wilson, Colorado	Huron Peak, Colorado	382477	18533
+Mt.Wilson, Colorado	Sunshine Peak, Colorado	289678	15224
+Mt.Cameron, Colorado	Mt.Shavano, Colorado	132753	6676
+Mt.Cameron, Colorado	Mt.Princeton, Colorado	102074	6528
+Mt.Cameron, Colorado	Mt.Belford, Colorado	118580	6064
+Mt.Yale, Colorado	Mt.Cameron, Colorado	101004	5042
+Mt.Cameron, Colorado	Crestone, Colorado	198291	8407
+Mt.Cameron, Colorado	Mt.Bross, Colorado	259	26
+KitCarson, Colorado	Mt.Cameron, Colorado	342469	14003
+Tabeguache Peak, Colorado	Mt.Cameron, Colorado	134281	7056
+Mt.Cameron, Colorado	Mt.Oxford, Colorado	116303	5827
+Mt.Cameron, Colorado	ElDiente Peak, Colorado	414058	18695
+Mt.Cameron, Colorado	Mt.Democrat, Colorado	22355	2060
+Mt.Cameron, Colorado	Mt.Sneffels, Colorado	386167	18292
+Pikes Peak, Colorado	Mt.Cameron, Colorado	171163	9214
+Mt.Cameron, Colorado	SnowmassMtn., Colorado	259326	13394
+Challenger Point, Colorado	Mt.Cameron, Colorado	201917	9035
+Mt.Columbia, Colorado	Mt.Cameron, Colorado	96927	5554
+Humboldt Peak, Colorado	Mt.Cameron, Colorado	219742	11281
+Mt.Bierstadt, Colorado	Mt.Cameron, Colorado	88802	5041
+Conundrum Peak, Colorado	Mt.Cameron, Colorado	208118	11336
+Mt.Cameron, Colorado	Handies Peak, Colorado	338554	21942
+Culebra Peak, Colorado	Mt.Cameron, Colorado	331433	14623
+Mt.Cameron, Colorado	Mt.Lindsey, Colorado	295502	12545
+LittleBear Peak, Colorado	Mt.Cameron, Colorado	265443	12501
+Mt.Sherman, Colorado	Mt.Cameron, Colorado	103889	6992
+Redcloud Peak, Colorado	Mt.Cameron, Colorado	326366	16450
+Pyramid Peak, Colorado	Mt.Cameron, Colorado	200969	11521
+NorthMaroon Peak, Colorado	Mt.Cameron, Colorado	201002	11514
+Wilson Peak, Colorado	Mt.Cameron, Colorado	414041	18693
+Wetterhorn Peak, Colorado	Mt.Cameron, Colorado	315884	16840
+Huron Peak, Colorado	Mt.Cameron, Colorado	127143	7371
+Sunshine Peak, Colorado	Mt.Cameron, Colorado	323416	15790
+Mt.Shavano, Colorado	Mt.Princeton, Colorado	76120	5686
+Mt.Belford, Colorado	Mt.Shavano, Colorado	92626	5223
+Mt.Yale, Colorado	Mt.Shavano, Colorado	75050	4200
+Crestone, Colorado	Mt.Shavano, Colorado	104409	4991
+Mt.Bross, Colorado	Mt.Shavano, Colorado	132473	6627
+KitCarson, Colorado	Mt.Shavano, Colorado	372428	15650
+Tabeguache Peak, Colorado	Mt.Shavano, Colorado	1528	380
+Mt.Shavano, Colorado	Mt.Oxford, Colorado	90349	4986
+ElDiente Peak, Colorado	Mt.Shavano, Colorado	300110	14536
+Mt.Democrat, Colorado	Mt.Shavano, Colorado	128047	6315
+Mt.Sneffels, Colorado	Mt.Shavano, Colorado	272219	14133
+Pikes Peak, Colorado	Mt.Shavano, Colorado	214272	10930
+Mt.Shavano, Colorado	SnowmassMtn., Colorado	261898	14840
+Challenger Point, Colorado	Mt.Shavano, Colorado	108035	5619
+Mt.Columbia, Colorado	Mt.Shavano, Colorado	70973	4713
+Humboldt Peak, Colorado	Mt.Shavano, Colorado	129307	8260
+Mt.Bierstadt, Colorado	Mt.Shavano, Colorado	175456	8306
+Conundrum Peak, Colorado	Mt.Shavano, Colorado	182164	10495
+Mt.Shavano, Colorado	Handies Peak, Colorado	224607	17783
+Culebra Peak, Colorado	Mt.Shavano, Colorado	237551	11207
+Mt.Shavano, Colorado	Mt.Lindsey, Colorado	201620	9130
+LittleBear Peak, Colorado	Mt.Shavano, Colorado	171561	9085
+Mt.Sherman, Colorado	Mt.Shavano, Colorado	124044	6770
+Redcloud Peak, Colorado	Mt.Shavano, Colorado	212418	12290
+Pyramid Peak, Colorado	Mt.Shavano, Colorado	175015	10680
+NorthMaroon Peak, Colorado	Mt.Shavano, Colorado	175048	10673
+Wilson Peak, Colorado	Mt.Shavano, Colorado	300093	14533
+Wetterhorn Peak, Colorado	Mt.Shavano, Colorado	201936	12680
+Huron Peak, Colorado	Mt.Shavano, Colorado	101189	6530
+Sunshine Peak, Colorado	Mt.Shavano, Colorado	209468	11631
+Mt.Belford, Colorado	Mt.Princeton, Colorado	56794	4909
+Mt.Yale, Colorado	Mt.Princeton, Colorado	36779	3658
+Crestone, Colorado	Mt.Princeton, Colorado	128402	6975
+Mt.Bross, Colorado	Mt.Princeton, Colorado	101939	6549
+KitCarson, Colorado	Mt.Princeton, Colorado	355044	15641
+Tabeguache Peak, Colorado	Mt.Princeton, Colorado	64392	5624
+Mt.Oxford, Colorado	Mt.Princeton, Colorado	54517	4672
+ElDiente Peak, Colorado	Mt.Princeton, Colorado	344170	17264
+Mt.Democrat, Colorado	Mt.Princeton, Colorado	97513	6238
+Mt.Sneffels, Colorado	Mt.Princeton, Colorado	316278	16861
+Pikes Peak, Colorado	Mt.Princeton, Colorado	183738	10852
+SnowmassMtn., Colorado	Mt.Princeton, Colorado	226067	14526
+Challenger Point, Colorado	Mt.Princeton, Colorado	132028	7603
+Mt.Columbia, Colorado	Mt.Princeton, Colorado	35204	4321
+Humboldt Peak, Colorado	Mt.Princeton, Colorado	147723	10095
+Mt.Bierstadt, Colorado	Mt.Princeton, Colorado	144922	8228
+Conundrum Peak, Colorado	Mt.Princeton, Colorado	146332	10181
+Handies Peak, Colorado	Mt.Princeton, Colorado	268666	20511
+Culebra Peak, Colorado	Mt.Princeton, Colorado	261544	13191
+Mt.Lindsey, Colorado	Mt.Princeton, Colorado	225613	11114
+LittleBear Peak, Colorado	Mt.Princeton, Colorado	195555	11069
+Mt.Sherman, Colorado	Mt.Princeton, Colorado	88213	6456
+Redcloud Peak, Colorado	Mt.Princeton, Colorado	256477	15018
+Pyramid Peak, Colorado	Mt.Princeton, Colorado	139184	10366
+NorthMaroon Peak, Colorado	Mt.Princeton, Colorado	139217	10359
+Wilson Peak, Colorado	Mt.Princeton, Colorado	344152	17261
+Wetterhorn Peak, Colorado	Mt.Princeton, Colorado	245995	15408
+Huron Peak, Colorado	Mt.Princeton, Colorado	65357	6216
+Sunshine Peak, Colorado	Mt.Princeton, Colorado	253527	14359
+Mt.Yale, Colorado	Mt.Belford, Colorado	53210	3139
+Mt.Belford, Colorado	Crestone, Colorado	158112	6921
+Mt.Bross, Colorado	Mt.Belford, Colorado	118448	6024
+KitCarson, Colorado	Mt.Belford, Colorado	371553	15115
+Tabeguache Peak, Colorado	Mt.Belford, Colorado	94102	5571
+Mt.Belford, Colorado	Mt.Oxford, Colorado	2277	238
+Mt.Belford, Colorado	ElDiente Peak, Colorado	373880	17210
+Mt.Democrat, Colorado	Mt.Belford, Colorado	114022	5712
+Mt.Belford, Colorado	Mt.Sneffels, Colorado	345988	16807
+Pikes Peak, Colorado	Mt.Belford, Colorado	200247	10326
+Mt.Belford, Colorado	SnowmassMtn., Colorado	192118	11990
+Challenger Point, Colorado	Mt.Belford, Colorado	161739	7549
+Mt.Columbia, Colorado	Mt.Belford, Colorado	43302	3266
+Humboldt Peak, Colorado	Mt.Belford, Colorado	177433	10041
+Mt.Bierstadt, Colorado	Mt.Belford, Colorado	161431	7702
+Conundrum Peak, Colorado	Mt.Belford, Colorado	112383	7645
+Mt.Belford, Colorado	Handies Peak, Colorado	298376	20457
+Culebra Peak, Colorado	Mt.Belford, Colorado	291254	13138
+Mt.Belford, Colorado	Mt.Lindsey, Colorado	255323	11060
+LittleBear Peak, Colorado	Mt.Belford, Colorado	225265	11015
+Mt.Sherman, Colorado	Mt.Belford, Colorado	54264	3920
+Redcloud Peak, Colorado	Mt.Belford, Colorado	286187	14965
+Pyramid Peak, Colorado	Mt.Belford, Colorado	105235	7830
+NorthMaroon Peak, Colorado	Mt.Belford, Colorado	105268	7823
+Wilson Peak, Colorado	Mt.Belford, Colorado	373862	17207
+Wetterhorn Peak, Colorado	Mt.Belford, Colorado	275705	15354
+Huron Peak, Colorado	Mt.Belford, Colorado	8563	1307
+Sunshine Peak, Colorado	Mt.Belford, Colorado	283238	14305
+Mt.Yale, Colorado	Crestone, Colorado	140543	5944
+Mt.Yale, Colorado	Mt.Bross, Colorado	100879	5047
+KitCarson, Colorado	Mt.Yale, Colorado	353984	14138
+Tabeguache Peak, Colorado	Mt.Yale, Colorado	76533	4594
+Mt.Yale, Colorado	Mt.Oxford, Colorado	50939	2956
+Mt.Yale, Colorado	ElDiente Peak, Colorado	356311	16233
+Mt.Yale, Colorado	Mt.Democrat, Colorado	96453	4735
+Mt.Yale, Colorado	Mt.Sneffels, Colorado	328419	15830
+Mt.Yale, Colorado	Pikes Peak, Colorado	182678	9349
+Mt.Yale, Colorado	SnowmassMtn., Colorado	222489	12810
+Challenger Point, Colorado	Mt.Yale, Colorado	144169	6572
+Mt.Yale, Colorado	Mt.Columbia, Colorado	26152	2292
+Humboldt Peak, Colorado	Mt.Yale, Colorado	159864	9064
+Mt.Bierstadt, Colorado	Mt.Yale, Colorado	143862	6725
+Conundrum Peak, Colorado	Mt.Yale, Colorado	142754	8466
+Mt.Yale, Colorado	Handies Peak, Colorado	280807	19480
+Culebra Peak, Colorado	Mt.Yale, Colorado	273685	12161
+Mt.Yale, Colorado	Mt.Lindsey, Colorado	237754	10083
+LittleBear Peak, Colorado	Mt.Yale, Colorado	207696	10039
+Mt.Sherman, Colorado	Mt.Yale, Colorado	84635	4741
+Redcloud Peak, Colorado	Mt.Yale, Colorado	268618	13988
+Mt.Yale, Colorado	Pyramid Peak, Colorado	135606	8651
+Mt.Yale, Colorado	NorthMaroon Peak, Colorado	135639	8644
+Wilson Peak, Colorado	Mt.Yale, Colorado	356293	16231
+Wetterhorn Peak, Colorado	Mt.Yale, Colorado	258136	14377
+Huron Peak, Colorado	Mt.Yale, Colorado	61779	4500
+Sunshine Peak, Colorado	Mt.Yale, Colorado	265669	13328
+Mt.Bross, Colorado	Crestone, Colorado	197842	8306
+KitCarson, Colorado	Crestone, Colorado	448938	16383
+Tabeguache Peak, Colorado	Crestone, Colorado	105824	5330
+Crestone, Colorado	Mt.Oxford, Colorado	155718	6664
+ElDiente Peak, Colorado	Crestone, Colorado	366340	16530
+Mt.Democrat, Colorado	Crestone, Colorado	193416	7994
+Mt.Sneffels, Colorado	Crestone, Colorado	338448	16127
+Pikes Peak, Colorado	Crestone, Colorado	279641	12608
+Crestone, Colorado	SnowmassMtn., Colorado	327267	16518
+Challenger Point, Colorado	Crestone, Colorado	3869	718
+Mt.Columbia, Colorado	Crestone, Colorado	136341	6391
+Humboldt Peak, Colorado	Crestone, Colorado	193126	9821
+Mt.Bierstadt, Colorado	Crestone, Colorado	240825	9984
+Conundrum Peak, Colorado	Crestone, Colorado	247533	12173
+Crestone, Colorado	Handies Peak, Colorado	271176	18995
+Culebra Peak, Colorado	Crestone, Colorado	173389	8207
+Crestone, Colorado	Mt.Lindsey, Colorado	137458	6129
+LittleBear Peak, Colorado	Crestone, Colorado	107399	6085
+Mt.Sherman, Colorado	Crestone, Colorado	189413	8449
+Redcloud Peak, Colorado	Crestone, Colorado	251895	12995
+Pyramid Peak, Colorado	Crestone, Colorado	240384	12358
+NorthMaroon Peak, Colorado	Crestone, Colorado	240417	12351
+Wilson Peak, Colorado	Crestone, Colorado	366322	16528
+Wetterhorn Peak, Colorado	Crestone, Colorado	248505	13892
+Huron Peak, Colorado	Crestone, Colorado	166557	8208
+Sunshine Peak, Colorado	Crestone, Colorado	248945	12336
+KitCarson, Colorado	Mt.Bross, Colorado	342210	13976
+Tabeguache Peak, Colorado	Mt.Bross, Colorado	134022	7029
+Mt.Bross, Colorado	Mt.Oxford, Colorado	116044	5801
+Mt.Bross, Colorado	ElDiente Peak, Colorado	413799	18669
+Mt.Bross, Colorado	Mt.Democrat, Colorado	22096	2033
+Mt.Bross, Colorado	Mt.Sneffels, Colorado	385908	18266
+Pikes Peak, Colorado	Mt.Bross, Colorado	170904	9187
+Mt.Bross, Colorado	SnowmassMtn., Colorado	259067	13367
+Challenger Point, Colorado	Mt.Bross, Colorado	201658	9008
+Mt.Columbia, Colorado	Mt.Bross, Colorado	96668	5528
+Humboldt Peak, Colorado	Mt.Bross, Colorado	219484	11254
+Mt.Bierstadt, Colorado	Mt.Bross, Colorado	88543	5014
+Conundrum Peak, Colorado	Mt.Bross, Colorado	207859	11310
+Mt.Bross, Colorado	Handies Peak, Colorado	338296	21916
+Culebra Peak, Colorado	Mt.Bross, Colorado	331174	14596
+Mt.Bross, Colorado	Mt.Lindsey, Colorado	295243	12519
+LittleBear Peak, Colorado	Mt.Bross, Colorado	265184	12474
+Mt.Sherman, Colorado	Mt.Bross, Colorado	103630	6965
+Redcloud Peak, Colorado	Mt.Bross, Colorado	326107	16423
+Pyramid Peak, Colorado	Mt.Bross, Colorado	200710	11495
+NorthMaroon Peak, Colorado	Mt.Bross, Colorado	200743	11488
+Wilson Peak, Colorado	Mt.Bross, Colorado	413782	18666
+Wetterhorn Peak, Colorado	Mt.Bross, Colorado	315625	16813
+Huron Peak, Colorado	Mt.Bross, Colorado	126884	7345
+Sunshine Peak, Colorado	Mt.Bross, Colorado	323157	15764
+KitCarson, Colorado	Tabeguache Peak, Colorado	375071	16244
+KitCarson, Colorado	Mt.Oxford, Colorado	365523	15262
+KitCarson, Colorado	ElDiente Peak, Colorado	654849	27883
+KitCarson, Colorado	Mt.Democrat, Colorado	334041	13996
+KitCarson, Colorado	Mt.Sneffels, Colorado	626958	27480
+KitCarson, Colorado	Pikes Peak, Colorado	230113	10814
+KitCarson, Colorado	SnowmassMtn., Colorado	571731	22426
+KitCarson, Colorado	Challenger Point, Colorado	452550	17088
+KitCarson, Colorado	Mt.Columbia, Colorado	346147	14989
+Humboldt Peak, Colorado	KitCarson, Colorado	326020	14598
+Mt.Bierstadt, Colorado	KitCarson, Colorado	331459	12666
+KitCarson, Colorado	Conundrum Peak, Colorado	457338	20771
+KitCarson, Colorado	Handies Peak, Colorado	579345	31130
+Culebra Peak, Colorado	KitCarson, Colorado	388012	15687
+KitCarson, Colorado	Mt.Lindsey, Colorado	334933	12936
+LittleBear Peak, Colorado	KitCarson, Colorado	361703	15085
+Mt.Sherman, Colorado	KitCarson, Colorado	416293	16024
+Redcloud Peak, Colorado	KitCarson, Colorado	581918	25147
+KitCarson, Colorado	Pyramid Peak, Colorado	450190	20956
+KitCarson, Colorado	NorthMaroon Peak, Colorado	450223	20949
+Wilson Peak, Colorado	KitCarson, Colorado	654831	27881
+KitCarson, Colorado	Wetterhorn Peak, Colorado	556674	26027
+KitCarson, Colorado	Huron Peak, Colorado	376363	16806
+KitCarson, Colorado	Sunshine Peak, Colorado	578968	24487
+Tabeguache Peak, Colorado	Mt.Oxford, Colorado	91877	5365
+Tabeguache Peak, Colorado	ElDiente Peak, Colorado	301638	14916
+Tabeguache Peak, Colorado	Mt.Democrat, Colorado	129575	6695
+Tabeguache Peak, Colorado	Mt.Sneffels, Colorado	273747	14513
+Tabeguache Peak, Colorado	Pikes Peak, Colorado	215801	11310
+Tabeguache Peak, Colorado	SnowmassMtn., Colorado	263426	15219
+Tabeguache Peak, Colorado	Challenger Point, Colorado	109563	5999
+Tabeguache Peak, Colorado	Mt.Columbia, Colorado	72501	5092
+Humboldt Peak, Colorado	Tabeguache Peak, Colorado	130835	8640
+Mt.Bierstadt, Colorado	Tabeguache Peak, Colorado	176984	8686
+Tabeguache Peak, Colorado	Conundrum Peak, Colorado	183692	10875
+Tabeguache Peak, Colorado	Handies Peak, Colorado	226135	18163
+Culebra Peak, Colorado	Tabeguache Peak, Colorado	239079	11587
+Tabeguache Peak, Colorado	Mt.Lindsey, Colorado	203148	9510
+LittleBear Peak, Colorado	Tabeguache Peak, Colorado	173090	9465
+Mt.Sherman, Colorado	Tabeguache Peak, Colorado	125572	7150
+Redcloud Peak, Colorado	Tabeguache Peak, Colorado	213946	12670
+Tabeguache Peak, Colorado	Pyramid Peak, Colorado	176543	11060
+Tabeguache Peak, Colorado	NorthMaroon Peak, Colorado	176576	11053
+Wilson Peak, Colorado	Tabeguache Peak, Colorado	301621	14913
+Tabeguache Peak, Colorado	Wetterhorn Peak, Colorado	203464	13060
+Tabeguache Peak, Colorado	Huron Peak, Colorado	102717	6909
+Tabeguache Peak, Colorado	Sunshine Peak, Colorado	210996	12010
+ElDiente Peak, Colorado	Mt.Oxford, Colorado	371603	16973
+Mt.Democrat, Colorado	Mt.Oxford, Colorado	111745	5474
+Mt.Sneffels, Colorado	Mt.Oxford, Colorado	343711	16569
+Pikes Peak, Colorado	Mt.Oxford, Colorado	197970	10089
+SnowmassMtn., Colorado	Mt.Oxford, Colorado	189841	11752
+Challenger Point, Colorado	Mt.Oxford, Colorado	159462	7312
+Mt.Columbia, Colorado	Mt.Oxford, Colorado	41024	3029
+Humboldt Peak, Colorado	Mt.Oxford, Colorado	175156	9804
+Mt.Bierstadt, Colorado	Mt.Oxford, Colorado	159154	7465
+Conundrum Peak, Colorado	Mt.Oxford, Colorado	110106	7407
+Handies Peak, Colorado	Mt.Oxford, Colorado	296099	20220
+Culebra Peak, Colorado	Mt.Oxford, Colorado	288977	12900
+Mt.Lindsey, Colorado	Mt.Oxford, Colorado	253046	10822
+LittleBear Peak, Colorado	Mt.Oxford, Colorado	222988	10778
+Mt.Sherman, Colorado	Mt.Oxford, Colorado	51987	3682
+Redcloud Peak, Colorado	Mt.Oxford, Colorado	283910	14727
+Pyramid Peak, Colorado	Mt.Oxford, Colorado	102958	7592
+NorthMaroon Peak, Colorado	Mt.Oxford, Colorado	102991	7585
+Wilson Peak, Colorado	Mt.Oxford, Colorado	371585	16970
+Wetterhorn Peak, Colorado	Mt.Oxford, Colorado	273428	15117
+Huron Peak, Colorado	Mt.Oxford, Colorado	10840	1544
+Sunshine Peak, Colorado	Mt.Oxford, Colorado	280961	14067
+Mt.Democrat, Colorado	ElDiente Peak, Colorado	409344	18320
+Mt.Sneffels, Colorado	ElDiente Peak, Colorado	92439	6997
+Pikes Peak, Colorado	ElDiente Peak, Colorado	495569	22934
+ElDiente Peak, Colorado	SnowmassMtn., Colorado	261149	13934
+Challenger Point, Colorado	ElDiente Peak, Colorado	369957	17159
+Mt.Columbia, Colorado	ElDiente Peak, Colorado	352269	16717
+Humboldt Peak, Colorado	ElDiente Peak, Colorado	410604	20264
+Mt.Bierstadt, Colorado	ElDiente Peak, Colorado	456753	20310
+Conundrum Peak, Colorado	ElDiente Peak, Colorado	339116	16959
+ElDiente Peak, Colorado	Handies Peak, Colorado	104646	10121
+Culebra Peak, Colorado	ElDiente Peak, Colorado	499473	22748
+ElDiente Peak, Colorado	Mt.Lindsey, Colorado	463542	20670
+LittleBear Peak, Colorado	ElDiente Peak, Colorado	433483	20626
+Mt.Sherman, Colorado	ElDiente Peak, Colorado	405341	18775
+Redcloud Peak, Colorado	ElDiente Peak, Colorado	292635	15885
+Pyramid Peak, Colorado	ElDiente Peak, Colorado	331968	17143
+NorthMaroon Peak, Colorado	ElDiente Peak, Colorado	332001	17136
+Wilson Peak, Colorado	ElDiente Peak, Colorado	18	3
+Wetterhorn Peak, Colorado	ElDiente Peak, Colorado	282153	16274
+Huron Peak, Colorado	ElDiente Peak, Colorado	382485	18534
+Sunshine Peak, Colorado	ElDiente Peak, Colorado	289685	15225
+Mt.Democrat, Colorado	Mt.Sneffels, Colorado	381482	17923
+Pikes Peak, Colorado	Mt.Democrat, Colorado	166478	8844
+Mt.Democrat, Colorado	SnowmassMtn., Colorado	265627	13527
+Challenger Point, Colorado	Mt.Democrat, Colorado	197232	8665
+Mt.Columbia, Colorado	Mt.Democrat, Colorado	92242	5185
+Humboldt Peak, Colorado	Mt.Democrat, Colorado	215058	10911
+Mt.Bierstadt, Colorado	Mt.Democrat, Colorado	84117	4671
+Conundrum Peak, Colorado	Mt.Democrat, Colorado	203433	10967
+Mt.Democrat, Colorado	Handies Peak, Colorado	333870	21573
+Culebra Peak, Colorado	Mt.Democrat, Colorado	326748	14253
+Mt.Democrat, Colorado	Mt.Lindsey, Colorado	290817	12176
+LittleBear Peak, Colorado	Mt.Democrat, Colorado	260758	12131
+Mt.Sherman, Colorado	Mt.Democrat, Colorado	110190	7126
+Redcloud Peak, Colorado	Mt.Democrat, Colorado	321681	16080
+Pyramid Peak, Colorado	Mt.Democrat, Colorado	196284	11152
+NorthMaroon Peak, Colorado	Mt.Democrat, Colorado	196317	11145
+Wilson Peak, Colorado	Mt.Democrat, Colorado	409356	18323
+Wetterhorn Peak, Colorado	Mt.Democrat, Colorado	311199	16470
+Huron Peak, Colorado	Mt.Democrat, Colorado	122458	7002
+Sunshine Peak, Colorado	Mt.Democrat, Colorado	318731	15421
+Pikes Peak, Colorado	Mt.Sneffels, Colorado	467642	22553
+Mt.Sneffels, Colorado	SnowmassMtn., Colorado	233222	13552
+Challenger Point, Colorado	Mt.Sneffels, Colorado	342030	16778
+Mt.Columbia, Colorado	Mt.Sneffels, Colorado	324342	16335
+Humboldt Peak, Colorado	Mt.Sneffels, Colorado	382676	19883
+Mt.Bierstadt, Colorado	Mt.Sneffels, Colorado	428825	19929
+Conundrum Peak, Colorado	Mt.Sneffels, Colorado	311189	16577
+Mt.Sneffels, Colorado	Handies Peak, Colorado	42307	7983
+Culebra Peak, Colorado	Mt.Sneffels, Colorado	471545	22366
+Mt.Sneffels, Colorado	Mt.Lindsey, Colorado	435614	20288
+LittleBear Peak, Colorado	Mt.Sneffels, Colorado	405556	20244
+Mt.Sherman, Colorado	Mt.Sneffels, Colorado	377413	18393
+Redcloud Peak, Colorado	Mt.Sneffels, Colorado	264707	15503
+Pyramid Peak, Colorado	Mt.Sneffels, Colorado	304041	16761
+NorthMaroon Peak, Colorado	Mt.Sneffels, Colorado	304074	16754
+Wilson Peak, Colorado	Mt.Sneffels, Colorado	92444	7038
+Wetterhorn Peak, Colorado	Mt.Sneffels, Colorado	51584	10066
+Huron Peak, Colorado	Mt.Sneffels, Colorado	354558	18152
+Sunshine Peak, Colorado	Mt.Sneffels, Colorado	261758	14843
+Pikes Peak, Colorado	SnowmassMtn., Colorado	368826	20440
+Challenger Point, Colorado	Pikes Peak, Colorado	282891	13794
+Pikes Peak, Colorado	Mt.Columbia, Colorado	177901	10313
+Humboldt Peak, Colorado	Pikes Peak, Colorado	196518	12132
+Mt.Bierstadt, Colorado	Pikes Peak, Colorado	171975	10797
+Conundrum Peak, Colorado	Pikes Peak, Colorado	289092	16095
+Pikes Peak, Colorado	Handies Peak, Colorado	419528	26702
+Culebra Peak, Colorado	Pikes Peak, Colorado	327016	15177
+Pikes Peak, Colorado	Mt.Lindsey, Colorado	273937	12426
+LittleBear Peak, Colorado	Pikes Peak, Colorado	300706	14575
+Mt.Sherman, Colorado	Pikes Peak, Colorado	230972	12370
+Redcloud Peak, Colorado	Pikes Peak, Colorado	407339	21209
+Pikes Peak, Colorado	Pyramid Peak, Colorado	281943	16280
+Pikes Peak, Colorado	NorthMaroon Peak, Colorado	281976	16273
+Wilson Peak, Colorado	Pikes Peak, Colorado	495015	23452
+Wetterhorn Peak, Colorado	Pikes Peak, Colorado	396857	21599
+Huron Peak, Colorado	Pikes Peak, Colorado	208117	12130
+Sunshine Peak, Colorado	Pikes Peak, Colorado	404390	20549
+Challenger Point, Colorado	SnowmassMtn., Colorado	330940	17158
+Mt.Columbia, Colorado	SnowmassMtn., Colorado	212503	12875
+Humboldt Peak, Colorado	SnowmassMtn., Colorado	346635	19650
+Mt.Bierstadt, Colorado	SnowmassMtn., Colorado	277517	13524
+Conundrum Peak, Colorado	SnowmassMtn., Colorado	124122	7926
+Handies Peak, Colorado	SnowmassMtn., Colorado	247635	16780
+Culebra Peak, Colorado	SnowmassMtn., Colorado	460456	22746
+Mt.Lindsey, Colorado	SnowmassMtn., Colorado	424525	20668
+LittleBear Peak, Colorado	SnowmassMtn., Colorado	394466	20624
+Mt.Sherman, Colorado	SnowmassMtn., Colorado	232483	12717
+Redcloud Peak, Colorado	SnowmassMtn., Colorado	302075	17785
+Pyramid Peak, Colorado	SnowmassMtn., Colorado	116974	8110
+NorthMaroon Peak, Colorado	SnowmassMtn., Colorado	117006	8103
+Wilson Peak, Colorado	SnowmassMtn., Colorado	263301	14057
+Wetterhorn Peak, Colorado	SnowmassMtn., Colorado	291593	18175
+Huron Peak, Colorado	SnowmassMtn., Colorado	200590	13200
+Sunshine Peak, Colorado	SnowmassMtn., Colorado	299126	17125
+Challenger Point, Colorado	Mt.Columbia, Colorado	139968	7043
+Humboldt Peak, Colorado	Challenger Point, Colorado	196752	10473
+Mt.Bierstadt, Colorado	Challenger Point, Colorado	244451	10636
+Conundrum Peak, Colorado	Challenger Point, Colorado	251159	12825
+Challenger Point, Colorado	Handies Peak, Colorado	274802	19647
+Culebra Peak, Colorado	Challenger Point, Colorado	177015	8858
+Challenger Point, Colorado	Mt.Lindsey, Colorado	141084	6781
+LittleBear Peak, Colorado	Challenger Point, Colorado	111025	6736
+Mt.Sherman, Colorado	Challenger Point, Colorado	193039	9100
+Redcloud Peak, Colorado	Challenger Point, Colorado	255521	13647
+Challenger Point, Colorado	Pyramid Peak, Colorado	244010	13010
+Challenger Point, Colorado	NorthMaroon Peak, Colorado	244043	13003
+Wilson Peak, Colorado	Challenger Point, Colorado	369948	17179
+Wetterhorn Peak, Colorado	Challenger Point, Colorado	252131	14544
+Huron Peak, Colorado	Challenger Point, Colorado	170184	8860
+Sunshine Peak, Colorado	Challenger Point, Colorado	252571	12987
+Humboldt Peak, Colorado	Mt.Columbia, Colorado	155787	9556
+Mt.Bierstadt, Colorado	Mt.Columbia, Colorado	139785	7217
+Conundrum Peak, Colorado	Mt.Columbia, Colorado	132846	8573
+Mt.Columbia, Colorado	Handies Peak, Colorado	276729	19972
+Culebra Peak, Colorado	Mt.Columbia, Colorado	269608	12653
+Mt.Columbia, Colorado	Mt.Lindsey, Colorado	233677	10575
+LittleBear Peak, Colorado	Mt.Columbia, Colorado	203618	10531
+Mt.Sherman, Colorado	Mt.Columbia, Colorado	74726	4849
+Redcloud Peak, Colorado	Mt.Columbia, Colorado	264540	14480
+Mt.Columbia, Colorado	Pyramid Peak, Colorado	125697	8758
+NorthMaroon Peak, Colorado	Mt.Columbia, Colorado	125730	8751
+Wilson Peak, Colorado	Mt.Columbia, Colorado	352216	16723
+Wetterhorn Peak, Colorado	Mt.Columbia, Colorado	254058	14869
+Huron Peak, Colorado	Mt.Columbia, Colorado	51871	4608
+Sunshine Peak, Colorado	Mt.Columbia, Colorado	261591	13820
+Humboldt Peak, Colorado	Mt.Bierstadt, Colorado	260952	12996
+Humboldt Peak, Colorado	Conundrum Peak, Colorado	265364	15334
+Humboldt Peak, Colorado	Handies Peak, Colorado	333571	23549
+Humboldt Peak, Colorado	Culebra Peak, Colorado	167471	11100
+Humboldt Peak, Colorado	Mt.Lindsey, Colorado	114392	8350
+Humboldt Peak, Colorado	LittleBear Peak, Colorado	141162	10498
+Humboldt Peak, Colorado	Mt.Sherman, Colorado	207244	11609
+Humboldt Peak, Colorado	Redcloud Peak, Colorado	321382	18056
+Humboldt Peak, Colorado	Pyramid Peak, Colorado	258215	15519
+Humboldt Peak, Colorado	NorthMaroon Peak, Colorado	258248	15512
+Humboldt Peak, Colorado	Wilson Peak, Colorado	409058	20299
+Humboldt Peak, Colorado	Wetterhorn Peak, Colorado	310900	18446
+Humboldt Peak, Colorado	Huron Peak, Colorado	184389	11368
+Humboldt Peak, Colorado	Sunshine Peak, Colorado	318433	17397
+Mt.Bierstadt, Colorado	Conundrum Peak, Colorado	227122	12708
+Mt.Bierstadt, Colorado	Handies Peak, Colorado	381291	23631
+Mt.Bierstadt, Colorado	Culebra Peak, Colorado	374169	16311
+Mt.Bierstadt, Colorado	Mt.Lindsey, Colorado	338238	14233
+Mt.Bierstadt, Colorado	LittleBear Peak, Colorado	308180	14189
+Mt.Bierstadt, Colorado	Mt.Sherman, Colorado	121951	7067
+Mt.Bierstadt, Colorado	Redcloud Peak, Colorado	369102	18138
+Mt.Bierstadt, Colorado	Pyramid Peak, Colorado	219973	12893
+Mt.Bierstadt, Colorado	NorthMaroon Peak, Colorado	220006	12887
+Mt.Bierstadt, Colorado	Wilson Peak, Colorado	456777	20381
+Mt.Bierstadt, Colorado	Wetterhorn Peak, Colorado	358620	18528
+Mt.Bierstadt, Colorado	Huron Peak, Colorado	169879	9059
+Mt.Bierstadt, Colorado	Sunshine Peak, Colorado	366153	17478
+Conundrum Peak, Colorado	Handies Peak, Colorado	325692	19752
+Culebra Peak, Colorado	Conundrum Peak, Colorado	380649	18360
+Conundrum Peak, Colorado	Mt.Lindsey, Colorado	344718	16282
+LittleBear Peak, Colorado	Conundrum Peak, Colorado	314659	16238
+Mt.Sherman, Colorado	Conundrum Peak, Colorado	129868	8526
+Redcloud Peak, Colorado	Conundrum Peak, Colorado	375581	20187
+Conundrum Peak, Colorado	Pyramid Peak, Colorado	37328	3749
+Conundrum Peak, Colorado	NorthMaroon Peak, Colorado	37361	3742
+Wilson Peak, Colorado	Conundrum Peak, Colorado	341358	17028
+Conundrum Peak, Colorado	Wetterhorn Peak, Colorado	365099	20576
+Conundrum Peak, Colorado	Huron Peak, Colorado	120783	8814
+Conundrum Peak, Colorado	Sunshine Peak, Colorado	372632	19527
+Culebra Peak, Colorado	Handies Peak, Colorado	325854	22846
+Mt.Lindsey, Colorado	Handies Peak, Colorado	289924	20769
+LittleBear Peak, Colorado	Handies Peak, Colorado	266327	20942
+Mt.Sherman, Colorado	Handies Peak, Colorado	329835	22077
+Redcloud Peak, Colorado	Handies Peak, Colorado	70582	12241
+Pyramid Peak, Colorado	Handies Peak, Colorado	316248	19854
+NorthMaroon Peak, Colorado	Handies Peak, Colorado	316281	19847
+Wilson Peak, Colorado	Handies Peak, Colorado	104651	10131
+Wetterhorn Peak, Colorado	Handies Peak, Colorado	30764	6925
+Huron Peak, Colorado	Handies Peak, Colorado	306980	21837
+Sunshine Peak, Colorado	Handies Peak, Colorado	67633	11581
+Culebra Peak, Colorado	Mt.Lindsey, Colorado	76526	5312
+Culebra Peak, Colorado	LittleBear Peak, Colorado	86168	6796
+Culebra Peak, Colorado	Mt.Sherman, Colorado	322555	14630
+Culebra Peak, Colorado	Redcloud Peak, Colorado	306383	16858
+Culebra Peak, Colorado	Pyramid Peak, Colorado	373526	18540
+Culebra Peak, Colorado	NorthMaroon Peak, Colorado	373559	18533
+Culebra Peak, Colorado	Wilson Peak, Colorado	499464	22709
+Culebra Peak, Colorado	Wetterhorn Peak, Colorado	302993	17755
+Culebra Peak, Colorado	Huron Peak, Colorado	299699	14390
+Culebra Peak, Colorado	Sunshine Peak, Colorado	303433	16198
+LittleBear Peak, Colorado	Mt.Lindsey, Colorado	50237	4723
+Mt.Sherman, Colorado	Mt.Lindsey, Colorado	286624	12557
+Redcloud Peak, Colorado	Mt.Lindsey, Colorado	270452	14785
+Pyramid Peak, Colorado	Mt.Lindsey, Colorado	337595	16467
+NorthMaroon Peak, Colorado	Mt.Lindsey, Colorado	337628	16460
+Wilson Peak, Colorado	Mt.Lindsey, Colorado	463533	20636
+Wetterhorn Peak, Colorado	Mt.Lindsey, Colorado	267062	15682
+Huron Peak, Colorado	Mt.Lindsey, Colorado	263768	12317
+Sunshine Peak, Colorado	Mt.Lindsey, Colorado	267503	14125
+LittleBear Peak, Colorado	Mt.Sherman, Colorado	256565	12538
+LittleBear Peak, Colorado	Redcloud Peak, Colorado	246855	15031
+LittleBear Peak, Colorado	Pyramid Peak, Colorado	307536	16448
+LittleBear Peak, Colorado	NorthMaroon Peak, Colorado	307569	16441
+LittleBear Peak, Colorado	Wilson Peak, Colorado	433474	20617
+LittleBear Peak, Colorado	Wetterhorn Peak, Colorado	243466	15928
+LittleBear Peak, Colorado	Huron Peak, Colorado	233710	12298
+LittleBear Peak, Colorado	Sunshine Peak, Colorado	243906	14371
+Mt.Sherman, Colorado	Redcloud Peak, Colorado	317618	16534
+Mt.Sherman, Colorado	Pyramid Peak, Colorado	122803	8773
+Mt.Sherman, Colorado	NorthMaroon Peak, Colorado	122836	8766
+Mt.Sherman, Colorado	Wilson Peak, Colorado	405293	18777
+Mt.Sherman, Colorado	Wetterhorn Peak, Colorado	307136	16923
+Mt.Sherman, Colorado	Huron Peak, Colorado	62820	5161
+Mt.Sherman, Colorado	Sunshine Peak, Colorado	314669	15874
+Redcloud Peak, Colorado	Pyramid Peak, Colorado	368617	20432
+Redcloud Peak, Colorado	NorthMaroon Peak, Colorado	368650	20426
+Redcloud Peak, Colorado	Wilson Peak, Colorado	292630	15936
+Redcloud Peak, Colorado	Wetterhorn Peak, Colorado	47911	7162
+Redcloud Peak, Colorado	Huron Peak, Colorado	294791	16282
+Redcloud Peak, Colorado	Sunshine Peak, Colorado	2949	660
+NorthMaroon Peak, Colorado	Pyramid Peak, Colorado	665	96
+Wilson Peak, Colorado	Pyramid Peak, Colorado	334175	17243
+Wetterhorn Peak, Colorado	Pyramid Peak, Colorado	357917	20793
+Huron Peak, Colorado	Pyramid Peak, Colorado	113601	9031
+Sunshine Peak, Colorado	Pyramid Peak, Colorado	365450	19743
+Wilson Peak, Colorado	NorthMaroon Peak, Colorado	334262	17230
+Wetterhorn Peak, Colorado	NorthMaroon Peak, Colorado	358004	20780
+Huron Peak, Colorado	NorthMaroon Peak, Colorado	113687	9018
+Sunshine Peak, Colorado	NorthMaroon Peak, Colorado	365536	19731
+Wilson Peak, Colorado	Wetterhorn Peak, Colorado	282135	16272
+Wilson Peak, Colorado	Huron Peak, Colorado	382468	18531
+Wilson Peak, Colorado	Sunshine Peak, Colorado	289668	15222
+Wetterhorn Peak, Colorado	Huron Peak, Colorado	284309	16732
+Wetterhorn Peak, Colorado	Sunshine Peak, Colorado	44962	6476
+Huron Peak, Colorado	Sunshine Peak, Colorado	291800	15613
