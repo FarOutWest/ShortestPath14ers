@@ -1,8 +1,8 @@
 """
-Randy Olson's Shortest Route Program modified By Andrew Liesinger to:
+Randy Olson's Shortest Route Program modified By Andrew Liesinger and now West Castro* to:
     1: Detect waypoints file at runtime - if found use it, otherwise look up distances via google calls (and then save to waypoint file)
     2: Dynamically create and open an HTML file showing the route when a shorter route is found
-    3: Make it easier to tinker with the Generation / Population parameters
+    * 3: Make it easier to tinker with the Generation / Population parameters
 """
 from __future__ import print_function
 from itertools import combinations
